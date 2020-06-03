@@ -1,4 +1,9 @@
 
+## 打赏
+开源不易，若有帮助就打赏一下呗。
+
+|微信打赏
+[](https://github.com/dengdaoyus/FFmpegCamera-master/blob/master/img/wei_pay.jpg?raw=true)
 # 学习资料
 - [Android 零基础开发相机](https://gitbook.cn/gitchat/activity/5aeb03e3af08a333483d71c1)
 - [Android openGl开发详解（一） - 简单图形的基本绘制](https://www.jianshu.com/p/92d02ac80611)
@@ -38,9 +43,4 @@
 ![](https://github.com/aserbao/CommonSource/blob/master/AndroidCamera/images/Mediacodec录制随音乐改变.gif)![](https://github.com/aserbao/CommonSource/blob/master/AndroidCamera/images/MediaExtractor.gif)
 ![](https://github.com/aserbao/CommonSource/blob/master/AndroidCamera/images/MediaMuxer.gif)
 
-## 打赏
-开源不易，若有帮助就打赏一下呗。
 
-|微信打赏
-|--|--|
-|![](https://github.com/aserbao/AserbaosAndroid/blob/master/app/src/main/assets/images/%E5%BE%AE%E4%BF%A1%E6%89%93%E8%B5%8F.jpeg)|![]
