@@ -2,7 +2,7 @@
 ## 打赏
 开源不易，若有帮助就打赏一下呗。
 微信打赏
-![](https://github.com/dengdaoyus/FFmpegCamera-master/blob/master/img/wei_pay.jpg?raw=true)
+![](https://github.com/dengdaoyus/FFmpegCamera-master/blob/master/img/wei_pay.png?raw=true)
 
 # 学习资料
 - [Android 零基础开发相机](https://gitbook.cn/gitchat/activity/5aeb03e3af08a333483d71c1)
